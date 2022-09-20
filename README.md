@@ -1,2 +1,2 @@
 # t-hendrik-kim.github.io
-my personal website
+Taehoon Hendrik Kim's academic personal website
